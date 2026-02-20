@@ -16,6 +16,7 @@ except FileNotFoundError:
 except ImportError:
     print("需要安装 Pillow 库。请在终端运行: pip install Pillow")
 #test
+#test2
 
 
 
