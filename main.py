@@ -1,6 +1,6 @@
-
+import sys
 from PIL import Image
-
+import os
 # 图像的绝对路径
 image_path = '/Users/ljch/Desktop/test-1/git/photo_6289301662044196242_y.jpg'
 
